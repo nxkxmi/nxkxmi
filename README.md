@@ -2,7 +2,7 @@
 I’m 16 years old and currently learning the ropes of UI design. While I can’t code or program just yet, I have a strong interest in designing user interfaces and app icons. 
 
 ## About me
-- Age: 16 years old
+- Age: 17 years old
 - Current Skills: UI design, Figma (still learning)
 - Interests: Designing UI/UX, creating app icons
 
